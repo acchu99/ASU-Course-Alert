@@ -1,0 +1,5 @@
+croniter==2.0.1
+python-dotenv==1.0.0
+requests==2.31.0
+schedule==1.2.1
+trycourier==5.0.0
