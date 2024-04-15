@@ -3,9 +3,6 @@ import time
 import urllib
 import requests
 import schedule
-from dotenv import load_dotenv
-
-load_dotenv()
 
 TELEGRAM_TOKEN="your-token"
 TELEGRAM_CHAT_ID="your-chat-id"
